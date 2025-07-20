@@ -1,4 +1,4 @@
-# bio
+# bio  ✅
 
 
 C, C++, C#, Python, PHP, React, Angular, TypeScript, HTML, XML, CSS, JSON, MySQL, MongoDB, Java, Spring Framework, JavaScript, JSP, Jade, Delphi, OpenGL, Direct3D, MPI, OpenCL, OpenMP
